@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bournemouth Properties]]></title>
+        <description><![CDATA[Bournemouth Properties]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 18:03:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a9e152f-2e6c-4911-a4f0-d3eff8d58593.jpg">]]></description>
+            <link>undefinedc802e9a8-e0af-403e-9217-adbddee54334/index.html</link>
+            <guid isPermaLink="false">c802e9a8-e0af-403e-9217-adbddee54334</guid>
+            <pubDate>Mon, 21 Mar 2016 18:03:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
