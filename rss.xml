@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Bournemouth Properties]]></title>
         <description><![CDATA[Bournemouth Properties]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bournemouth-properties/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 18:03:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 18:06:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bournemouth-properties/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a9e152f-2e6c-4911-a4f0-d3eff8d58593.jpg">]]></description>
-            <link>undefinedc802e9a8-e0af-403e-9217-adbddee54334/index.html</link>
+            <link>https://thegrid.ai/bournemouth-properties/c802e9a8-e0af-403e-9217-adbddee54334/index.html</link>
             <guid isPermaLink="false">c802e9a8-e0af-403e-9217-adbddee54334</guid>
-            <pubDate>Mon, 21 Mar 2016 18:03:05 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2016 18:04:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
