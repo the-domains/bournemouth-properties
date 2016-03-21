@@ -1,0 +1,28 @@
+name: Bournemouth Properties
+favicon: null
+layout_spectrum: 0.9895749147981405
+typography_spectrum: 0.9676301823928952
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4761644348036498
+  lightness: 0.25996146304532886
+  saturation: 0.0066071487963199615
+  rhythmicContrast: 0.19673327007330954
+purpose: []
