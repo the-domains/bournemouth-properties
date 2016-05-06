@@ -4,7 +4,7 @@
         <description><![CDATA[Bournemouth Properties]]></description>
         <link>https://thegrid.ai/bournemouth-properties/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 19:29:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 08:58:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bournemouth-properties/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/bournemouth-properties/c802e9a8-e0af-403e-9217-adbddee54334/index.html</link>
             <guid isPermaLink="false">c802e9a8-e0af-403e-9217-adbddee54334</guid>
             <pubDate>Mon, 21 Mar 2016 19:29:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We cover the Southbourne area]]></title>
+            <description><![CDATA[<article><h1>We cover the Southbourne area</h1><p>We currently manage properties in and around Southbourne High Street as well as along the much sought after Southbourne clifftops.</p></article>]]></description>
+            <link>https://thegrid.ai/bournemouth-properties/we-currently-manage-properties/index.html</link>
+            <guid isPermaLink="false">7ac374a6-1e32-4763-9911-41ef4e998357</guid>
+            <pubDate>Fri, 06 May 2016 08:58:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
